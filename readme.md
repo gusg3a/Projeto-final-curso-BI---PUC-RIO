@@ -1,4 +1,4 @@
-# COLOQUE O NOME DO PROJETO AQUI!!!
+# Análise e aplicação da metodologia de associação para atributos desconhecidos de um Blow Out Preventer(BOP)
 
 Aluno: Gustavo Araujo (https://github.com/gusg3a/Projeto-final-curso-BI---PUC-RIO)
 
